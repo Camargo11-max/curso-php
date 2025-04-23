@@ -26,3 +26,5 @@ $c .= " Cerveza";
 echo "<br><br>";
 echo "<br> Resultado 2: <br><br>";
 echo $c;
+
+?>

@@ -29,3 +29,5 @@ $esDeDia = true;
 $esDeNoche = false;
 echo "<br>";
 var_dump( $esDeNoche);
+
+?>

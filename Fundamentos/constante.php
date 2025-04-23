@@ -13,4 +13,6 @@ echo "<br><br>";
 echo "Metodo 2:<br>";
 echo MI_ID_CONST;
 
+?>
+
 

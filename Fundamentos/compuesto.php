@@ -20,3 +20,4 @@ $tiposCervezasconValor = [
 var_dump($tiposCervezasconValor);
 
 
+?>
