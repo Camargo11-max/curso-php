@@ -15,3 +15,5 @@ $Objectpersona = new personas();
 $Objectpersona->nombre = "Profe Jose Antonio";
 $Objectpersona->edad = 28;
 $Objectpersona->presentarse();
+
+?>

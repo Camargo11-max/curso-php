@@ -57,6 +57,8 @@ var_dump($negacionA);
 echo "<br>";
 echo "<br>";
 
+?>
+
 
 
 
